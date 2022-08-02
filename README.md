@@ -1,4 +1,4 @@
-:warning: **This is an undisclosed project, meaning there is no code in this repo.** This ReadMe gives a short overview over the project :warning:
+:warning: **This is an undisclosed project, meaning there is no code in this repo.** :warning:
 
 
 
